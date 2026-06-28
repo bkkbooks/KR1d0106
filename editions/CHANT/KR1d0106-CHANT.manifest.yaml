@@ -1,0 +1,34 @@
+canonical_identifier: bkk:krp/KR1d0106/CHANT/v1
+canonical_location: https://kanripo.org/bkk/KR1d0106/CHANT/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 逆降義一卷
+  identifiers:
+    krp: KR1d0106
+  tags:
+    kr-categories: KR1d
+    tls-dates: dat04500
+  source:
+    repository: tls-texts
+    path: data/tls/KR1d0106.xml
+  edition:
+    short: CHANT
+assets:
+  parts:
+  - {seq: 1, filename: KR1d0106_001-CHANT.yaml, hash: 'sha256:bac914cd3cae2eb053ed11dd3dffe53d515c5978edb1e4ebdaaea6cc59c55275'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR1d0106_001-CHANT.markers.yaml, hash: 'sha256:e5fd041d41120f4bb2961c7f3029e60ce3d3d6bfbdcc32169482b67276f5b329'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR1d0106_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 145
+  label: 逆降義
+  type: section
+  level: 1
+hash: sha256:e4f3a67610eb1506edf938da5b511e9f81c66f7b50f5d56fc33e9866ab18c99e

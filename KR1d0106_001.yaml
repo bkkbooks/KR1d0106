@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR1d0106/chant/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 逆降義或問曰甥姪亦可施於伯叔從母耶答曰伯叔有父名則兄弟之子不得姓從母有母名則姊妹之子不可言甥且甥姪唯施於姑舅耳何者姪之言實也甥之言生也女子雖出情不自絶故於兄弟之子稱其情實男子居內據自我出故於姊妹之子言其出生伯叔本內不得言實從母俱出不得言甥然則謂吾伯叔者吾謂之子弟之子謂吾從母者吾謂之姊妹之子
+  hash: sha256:e2777bc4e07410743cc66e8de8375263dcb2a387d58e3a5de6dac29154f543b7
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR1d0106_CHANT_001-1a.1-h}
+metadata:
+  title: 逆降義一卷
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR1d0106.xml
+hash: sha256:fc1b0bc266e4579fa6875a79722b15736cd798995e1cd4e33e62b070f1cc6f7d
